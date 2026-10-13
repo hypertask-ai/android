@@ -23,3 +23,7 @@ Release signing keys are not part of this repository and never will be.
 ## License
 
 [AGPL-3.0](LICENSE)
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for bug reports, ideas, and our contribution policy.
